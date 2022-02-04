@@ -11,9 +11,9 @@
   <div align="left">
     <h4>Team Members:</h4>
     <ul>
-      <li>Sevcenco Nicolae</li>
-      <li>Coroletchi Ana</li>
-      <li>Cius Iurie</li>
+      <li>Șevcenco Nicolae</li>
+      <li>Corolețchi Ana</li>
+      <li>Ciuș Iurie</li>
     </ul>
     <br />
     <br />
